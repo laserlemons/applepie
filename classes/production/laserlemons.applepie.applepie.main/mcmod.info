@@ -1,0 +1,11 @@
+[
+{
+  "modid": "applepie",
+  "name": "Apple Pie",
+  "description": "Adds just one food: apple pie.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/apple-pie",
+  "authorList": ["LaserLemons"]
+}
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.iml" filepath="$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.api.iml" filepath="$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.main.iml" filepath="$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.test.iml" filepath="$PROJECT_DIR$/.idea/modules/laserlemons.applepie.applepie.test.iml" />
+    </modules>
+  </component>
+</project>
