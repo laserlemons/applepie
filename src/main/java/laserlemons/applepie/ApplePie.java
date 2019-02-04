@@ -17,7 +17,7 @@ public class ApplePie {
 
     public static final String MODID = "applepie";
     public static final String MODNAME = "ApplePie";
-    public static final String MODVERSION= "1.0";
+    public static final String MODVERSION= "1.1";
 
     @SidedProxy(clientSide = "laserlemons.applepie.proxy.ClientProxy", serverSide = "laserlemons.applepie.proxy.ServerProxy")
     public static CommonProxy proxy;
