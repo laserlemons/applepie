@@ -9,7 +9,7 @@ import net.minecraftforge.oredict.OreDictionary;
 public class ItemApplePie extends ItemFood {
 
     public ItemApplePie() {
-        super(6, 0.8f, false);
+        super(8, 0.8f, false);
         setUnlocalizedName("apple_pie");
         setRegistryName("apple_pie");
         setCreativeTab(CreativeTabs.FOOD);
